@@ -1,2 +1,2 @@
 # SBMS-Grafana-json-script
-This is te Grafana JSON script for my Electrodacus SBMS dasnboard.
+This is the Grafana JSON script for my Electrodacus SBMS dasnboard.
